@@ -4,4 +4,4 @@ A Naked League vai ser um aplicativo social e esportivo que conecta amigos para 
 <br>
 
 # Tela de Login
-<img src="https://github.com/user-attachments/assets/1d2710d2-2cd9-405c-80fe-7b94c25740ea.png" width="700px" />
+<img src="[https://github.com/user-attachments/assets/1d2710d2-2cd9-405c-80fe-7b94c25740ea.png](https://private-user-images.githubusercontent.com/103442060/437238742-1d2710d2-2cd9-405c-80fe-7b94c25740ea.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDU1MzgyMjksIm5iZiI6MTc0NTUzNzkyOSwicGF0aCI6Ii8xMDM0NDIwNjAvNDM3MjM4NzQyLTFkMjcxMGQyLTJjZDktNDA1Yy04MGZlLTdiOTRjMjU3NDBlYS5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNDI0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDQyNFQyMzM4NDlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kNDBiYzFhMTIwNWJkOGVlZGE1MjViYTg2MDE0ODUzNDQ1NjA0NDhkMmZkNjliMTFjNTJjYzgwZjIxZThiNjFmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.sDT4dWicibM4FigWubHTy18XF--GKX3RI9aYrjvvdOg)" width="700px" />
