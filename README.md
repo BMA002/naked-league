@@ -7,7 +7,7 @@ A Naked League vai ser um aplicativo social e esportivo que conecta amigos para 
 <br>
 
 # Tela de Login
-<img src="COLOCAR LINK DO PNG DA TELA DE LOGIN" width="700px" />
+<img src="https://github.com/user-attachments/assets/4de0a21e-c80c-4d9e-b81d-9d58b8fe040c" width="700px" />
 Tela onde o usuário irá se registrar para se conectar ao aplicativo.
 <br>Campos da tela:
 <br>-> Login (Obrigatório)
